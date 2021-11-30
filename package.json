@@ -1,0 +1,25 @@
+{
+  "name": "database-migrator",
+  "version": "1.0.0",
+  "description": "move data from old db to new db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takiyo0/mongoose-migrator.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Takiyo0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Takiyo0/mongoose-migrator/issues"
+  },
+  "homepage": "https://github.com/Takiyo0/mongoose-migrator#readme",
+  "dependencies": {
+    "mongoose": "^6.0.14"
+  }
+}
