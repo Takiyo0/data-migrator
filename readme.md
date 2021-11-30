@@ -8,3 +8,7 @@ Migrate your data from old database to a new one. This is a project that i made 
 3. run `npm i`
 4. Add your mongodb uri in `config.json`
 5. run `node .`
+
+### If working, it must be like this
+![WindowsTerminal_a0Meshlxkp](https://user-images.githubusercontent.com/60313514/144043327-0b9d03a3-d7a1-4be1-8349-7a430fcae1ac.png)
+well uh ignore that undefined, i already fixed it
